@@ -1,1 +1,1 @@
-{"format":"banana-cat-hub/scripts","version":1,"scripts":[{"id":"521f0654-cdc3-40e4-b2b4-06dfc48d78cd","name":"f","code":"he"}]}
+{"format":"banana-cat-hub/scripts","version":1,"scripts":[{"id":"521f0654-cdc3-40e4-b2b4-06dfc48d78cd","name":"f (2)","code":"he"},{"id":"ab19a3dc-be9b-470c-87a6-a9e16e944ca6","name":"f","code":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/mncuadaigmailcom/scriptaiai/refs/heads/main/scriptaiai\"))()"}]}
