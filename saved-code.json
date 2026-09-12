@@ -1,0 +1,1 @@
+{"format":"banana-cat-hub/scripts","version":1,"scripts":[{"id":"db092609-a042-41d4-940c-0cf709494569","name":"ai","code":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/mncuadaigmailcom/scriptaiai/refs/heads/main/scriptaiai\"))()"}]}
